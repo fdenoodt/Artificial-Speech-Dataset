@@ -2,3 +2,6 @@ This repository contains the dataset used in the Smooth InfoMax paper (see [GitH
 
 We have also split the audio files into single syllables being pronounced. These files are then padded to have a fixed length (see `./split up data padded`).
 
+## Acknowledgements
+
+This dataset is based on audio recordings originally created by Bart de Boer, with modifications including a new train-test split and the addition of syllable-split audio files. The original dataset can be found at [TODO].
